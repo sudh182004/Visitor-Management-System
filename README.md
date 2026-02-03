@@ -22,7 +22,6 @@ All approval logic and validations are handled by the backend.
 - Optional OTP verification
 - Auto-login for guards
 - Visitor photo capture
-- Live dashboard view
 
 ---
 
@@ -125,23 +124,11 @@ Host can pre-approve a visitor before arrival by sending:
 
 ---
 
-## OTP Verification (Optional)
+## OTP Verification
 
 - OTP sent only for first-time visitors (if phone number provided)
 - No OTP required for repeat visits
 - Used only when verification is needed
-
----
-
-## Dashboard (Demo)
-
-- Visitor summary:
-  - Approved
-  - Rejected
-  - Currently Inside
-- Recent visitor list
-- Live updates without refresh
-- Charts for visual monitoring
 
 ---
 
@@ -154,8 +141,6 @@ Host can pre-approve a visitor before arrival by sending:
 - Each visitor entry linked with:
   - Guard
   - Timestamp
-
-(No attendance or payroll logic included)
 
 ---
 
@@ -192,28 +177,30 @@ Prototype / Demo Ready
 
 ---
 
-![1](./images/1.png)
+![14](./images/14.jpeg)
 
-![2](./images/2.png)
+![13](./images/13.jpeg)
 
-![3](./images/3.png)
+![12](./images/12.jpeg)
 
-![4](./images/4.png)
+![11](./images/11.jpeg)
 
-![5](./images/5.png)
+![10](./images/10.jpeg)
 
-![6](./images/6.png)
+![9](./images/9.jpeg)
 
-![7](./images/7.png)
+![8](./images/8.jpeg)
 
-![8](./images/8.png)
+![7](./images/7.jpeg)
 
-![9](./images/9.png)
+![6](./images/6.jpeg)
 
-![10](./images/10.png)
+![5](./images/5.jpeg)
 
-![11](./images/11.png)
+![4](./images/4.jpeg)
 
-![12](./images/12.png)
+![3](./images/3.jpeg)
 
-![13](./images/13.png)
+![2](./images/2.jpeg)
+
+![1](./images/1.jpeg)
