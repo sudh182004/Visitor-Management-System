@@ -180,7 +180,7 @@ Host can pre-approve a visitor before arrival by sending:
 </p>
 
 <p float="left">
-  <img src="./images/11.jpeg" width="280"/>
+  <img src="./images/7.jpeg" width="280"/>
   <img src="./images/10.jpeg" width="280"/>
   <img src="./images/9.jpeg" width="280"/>
 </p>
@@ -197,6 +197,3 @@ Host can pre-approve a visitor before arrival by sending:
   <img src="./images/3.jpeg" width="280"/>
 </p>
 
-<p float="left">
-  <img src="./images/7.jpeg" width="280"/>
-</p>
