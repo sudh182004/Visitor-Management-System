@@ -176,31 +176,31 @@ Host can pre-approve a visitor before arrival by sending:
 Prototype / Demo Ready
 
 ---
+<p float="left">
+  <img src="./images/14.jpeg" width="280"/>
+  <img src="./images/13.jpeg" width="280"/>
+  <img src="./images/12.jpeg" width="280"/>
+</p>
 
-![14](./images/14.jpeg)
+<p float="left">
+  <img src="./images/11.jpeg" width="280"/>
+  <img src="./images/10.jpeg" width="280"/>
+  <img src="./images/9.jpeg" width="280"/>
+</p>
 
-![13](./images/13.jpeg)
+<p float="left">
+  <img src="./images/8.jpeg" width="280"/>
+  <img src="./images/7.jpeg" width="280"/>
+  <img src="./images/6.jpeg" width="280"/>
+</p>
 
-![12](./images/12.jpeg)
+<p float="left">
+  <img src="./images/5.jpeg" width="280"/>
+  <img src="./images/4.jpeg" width="280"/>
+  <img src="./images/3.jpeg" width="280"/>
+</p>
 
-![11](./images/11.jpeg)
-
-![10](./images/10.jpeg)
-
-![9](./images/9.jpeg)
-
-![8](./images/8.jpeg)
-
-![7](./images/7.jpeg)
-
-![6](./images/6.jpeg)
-
-![5](./images/5.jpeg)
-
-![4](./images/4.jpeg)
-
-![3](./images/3.jpeg)
-
-![2](./images/2.jpeg)
-
-![1](./images/1.jpeg)
+<p float="left">
+  <img src="./images/2.jpeg" width="280"/>
+  <img src="./images/1.jpeg" width="280"/>
+</p>
